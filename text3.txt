@@ -1,0 +1,10 @@
+e 100644 text3.txt
+PS C:\Users\faiza\OneDrive\Desktop\Faizal\Faizal> git push
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 276 bytes | 276.00 KiB/s, done.
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/MohamedFaizal04/Faizal.git
+   1e01bc6..236a73c  main -> main
